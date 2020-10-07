@@ -1,0 +1,14 @@
+{
+  "name": "realtime-game",
+  "version": "1.0.0",
+  "description": "nodejs gulp soketIO by nomards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sungmin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
